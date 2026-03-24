@@ -1,0 +1,26 @@
+# Verification Engineering Overview
+
+## Overview
+Attended a session on the role of a Verification Engineer in the VLSI industry. The session focused on how verification plays a critical role in ensuring the correctness and reliability of digital designs before fabrication.
+
+## Key Points Learned
+- Verification is the process of checking whether a design behaves as expected under different conditions.
+- It is a crucial stage in the VLSI design flow, performed after design and before fabrication.
+- Verification helps identify and fix errors early, reducing the cost of chip manufacturing.
+- Debugging and testing are major responsibilities of a verification engineer.
+- Both functional and logical correctness of the design are validated.
+
+## Skills Required
+- Strong understanding of digital electronics and logic design
+- Knowledge of simulation tools and waveform analysis
+- Basic programming knowledge (for writing test cases)
+- Problem-solving and debugging skills
+- Attention to detail
+
+## Tools & Concepts (Basic Exposure)
+- Simulation tools are used to test circuit behavior
+- Test cases are written to verify different scenarios
+- Waveforms are analyzed to check correctness
+
+## Conclusion
+The session provided a clear understanding of the importance of verification in the VLSI industry. It highlighted how verification engineers ensure that designs are error-free and reliable before they are manufactured.
